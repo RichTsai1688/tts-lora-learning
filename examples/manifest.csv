@@ -1,0 +1,4 @@
+audio,text,language,style,group
+wav/example_001.wav,這是一句範例文字。,Chinese,neutral,session_001
+wav/example_002.wav,這是第二句範例。,Chinese,happy,session_002
+wav/example_003.wav,這是第三句範例。,Chinese,neutral,session_003
